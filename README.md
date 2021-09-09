@@ -1,2 +1,2 @@
-# wesite
-The company website
+# writerstube static website
+The company's  home page
