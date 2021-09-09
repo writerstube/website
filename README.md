@@ -1,2 +1,2 @@
-# writerstube static website
+# Writerstube's static website
 The company's  home page
